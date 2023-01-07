@@ -33,7 +33,7 @@ class Home extends StatelessWidget {
 
       //구글 앱 형식이라는
       appBar: AppBar(
-        title: const Text('AVATAR'),
+        title: const Text('AVAT1AR'),
       ), //앱바 상단
       body: const Center(
         child: Text('My BODY'),
